@@ -1,4 +1,4 @@
 const { PeerServer } = require("peer");
 
-const peerServer = PeerServer({ port: 9000, path: "/new" });
+const peerServer = PeerServer({ port: 9000, path: "/ne" });
 //fdsdd
